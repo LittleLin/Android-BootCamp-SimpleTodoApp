@@ -14,4 +14,4 @@ Walkthrough of all user stories:
 
 ![Video Walkthrough](tutorial.gif)
 
-GIF created with LiceCap.
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
